@@ -11,7 +11,7 @@
 </div> 
 <div align="center">
 <h2>
-<a href="marcus-projeto-medicenter.netlify.app" target="_blank">Acesse a página</a>
+<a href="https://marcus-projeto-medicenter.netlify.app/" target="_blank">Acesse a página</a>
 </h2>
 </div>
 <div align="center">
